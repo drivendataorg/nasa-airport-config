@@ -30,4 +30,8 @@ Place | Team or User | Score   | Summary of Model
 
 Additional solution details can be found in the `reports` folder inside the directory for each submission.
 
-**Benchmark Blog Post coming soon!**
+
+## Additional resources
+
+- [Benchmark blog post](https://drivendata.co/blog/airport-configuration-benchmark/)
+- [Winner's blog post](https://drivendata.co/blog/airport-configuration-winners)
