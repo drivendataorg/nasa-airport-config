@@ -15,7 +15,7 @@ The goal of this challenge was to automatically predict airport configuration ch
 
 ## What's in this Repository
 
-This repository contains code from winning competitors in the [Run-way Functions: Predict Reconfigurations at US Airports](https://www.drivendata.org/competitions/89/competition-nasa-airport-configuration/) DrivenData challenge.
+This repository contains code from winning competitors in the [Run-way Functions: Predict Reconfigurations at US Airports](https://www.drivendata.org/competitions/89/competition-nasa-airport-configuration/) DrivenData challenge. Code for all winning solutions are open source under the MIT License.
 
 **Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
